@@ -13,7 +13,7 @@ st.set_page_config(
     page_icon="⛅"                             
 )
 
-st.title("🌧 Weather App")
+st.title(""🌧️🌧️ Weather App 🌧️🌧️"")
 st.write("Enter the city name and click the button to fetch the weather data")
 
 city = st.text_input("Enter the city Name")
